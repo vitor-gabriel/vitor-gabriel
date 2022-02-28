@@ -2,8 +2,7 @@
 
 
 ### ... FullStack Developer
-<img src="https://drive.google.com/uc?export=view&id=1fmj0fppDbcrZYnwGhT-eqX1L2TnTA-UA" alt="ADVPL" style="width: 150px; max-width: 100%; height: auto"></img> 
-#### Especializado em ADVPL e Angular.
+#### Especializado em ADVPL/TLPP e Angular.
 
 22 anos, 3 anos codificando 🧐.
 Gosto de jogos de RPG 🎮, sou fã da DC 📽.
@@ -18,7 +17,6 @@ Gosto de jogos de RPG 🎮, sou fã da DC 📽.
 ## Linguagens
 ![Vitor-Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor-gabriel&show_icons=true&theme=highcontrast)
 
-<img src="https://drive.google.com/uc?export=view&id=1johfxe_UkSwv6BwY_DOeRLAEjR39637g" alt="ADVPL" style="width: 30px; max-width: 100%; height: auto"></img>
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
