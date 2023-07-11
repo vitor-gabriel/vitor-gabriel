@@ -4,7 +4,7 @@
 ### ... FullStack Developer
 #### Especializado em ADVPL/TLPP e Angular.
 
-22 anos, 3 anos codificando 🧐.
+24 anos, 4 anos codificando 🧐.
 Gosto de jogos de RPG 🎮, sou fã da DC 📽.
 
 ## Contato
@@ -15,7 +15,7 @@ Gosto de jogos de RPG 🎮, sou fã da DC 📽.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabrijac57@gmail.com)](mailto:gabrijac57@gmail.com)
 
 ## Linguagens
-![Vitor-Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor-gabriel&show_icons=true&theme=highcontrast)
+![Vitor-Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor-gabriel&show_icons=true&theme=radical)
 
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
