@@ -8,7 +8,6 @@ My work is centered on creating reliable backend solutions, improving legacy sys
 - 💼 Software Engineer specialized in ERP and backend development
 - ⚙️ Focused on APIs, integrations, automation, and maintainable systems
 - 🧠 Interested in scalable architecture, performance, and observability
-- 🎮 RPG and action game enthusiast
 
 ## Tech Stack
 
