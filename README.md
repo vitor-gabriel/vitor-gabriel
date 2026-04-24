@@ -2,9 +2,9 @@
 
 
 ### ... FullStack Developer
-#### Especializado em ADVPL/TLPP, Golang e Angular.
+#### Especializado em ADVPL/TLPP, C# e Angular.
 
-25 anos, 4 anos codificando 🧐.
+27 anos, 6 anos codificando 🧐.
 Gosto de jogos de RPG e ação 🎮.
 
 ## Contato
