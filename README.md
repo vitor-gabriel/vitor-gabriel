@@ -1,6 +1,6 @@
 # Hi, I'm Vitor Gabriel 👋
 
-Backend Engineer focused on **C#/.NET, ERP integrations, APIs, and enterprise systems**.
+Backend Engineer focused on **Java, ERP integrations, APIs, and enterprise systems**.
 
 I have 6+ years of experience building and maintaining business-critical software, with strong background in **ADVPL/TLPP, C#, Angular, SQL Server, and system integrations**.  
 My work is centered on creating reliable backend solutions, improving legacy systems, and delivering software that supports real operational workflows.
@@ -12,7 +12,6 @@ My work is centered on creating reliable backend solutions, improving legacy sys
 ## Tech Stack
 
 ![C# Badge](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ADVPL Badge](https://img.shields.io/badge/ADVPL-0A66C2?style=for-the-badge)
 ![TLPP Badge](https://img.shields.io/badge/TLPP-1F6FEB?style=for-the-badge)
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -47,6 +46,6 @@ Right now, I'm focused on deepening my expertise in:
 
 - scalable backend systems
 - software architecture
-- .NET ecosystem
+- Java ecosystem
 - ERP modernization
 - observability and system reliability
