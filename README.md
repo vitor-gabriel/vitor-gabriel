@@ -1,4 +1,4 @@
-# Hi, I'm Vitor Gabriel 👋
+# Hi, I'm Vitor Rosa 👋
 
 Backend Engineer focused on **Java, ERP integrations, APIs, and enterprise systems**.
 
@@ -11,7 +11,6 @@ My work is centered on creating reliable backend solutions, improving legacy sys
 
 ## Tech Stack
 
-![C# Badge](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![ADVPL Badge](https://img.shields.io/badge/ADVPL-0A66C2?style=for-the-badge)
 ![TLPP Badge](https://img.shields.io/badge/TLPP-1F6FEB?style=for-the-badge)
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -30,14 +29,14 @@ My work is centered on creating reliable backend solutions, improving legacy sys
 
 ## GitHub Stats
 
-![Vitor-Gabriel GitHub stats](https://github-stats-extended.vercel.app/api?username=vitor-gabriel&show_icons=true&theme=radical)
+![Vitor-Rosa GitHub stats](https://github-stats-extended.vercel.app/api?username=vitor-gabriel&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=vitor-gabriel&layout=compact&theme=radical)
 
 ## Contact
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitor-gabriel)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgabriel-tech/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorrosa-tech/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorrosa.dev@gmail.com)
 
 ## Current Focus
