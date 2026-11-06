@@ -1,50 +1,56 @@
-# Hi, I'm Vitor Rosa 👋
+# Vitor Rosa
 
-Backend Engineer focused on **Java, ERP integrations, APIs, and enterprise systems**.
+**Senior Software Engineer | Backend, Integrations & Automation**
 
-I have 6+ years of experience building and maintaining business-critical software, with strong background in **ADVPL/TLPP, C#, Angular, SQL Server, and system integrations**.  
-My work is centered on creating reliable backend solutions, improving legacy systems, and delivering software that supports real operational workflows.
+I develop REST APIs, connect enterprise systems, and automate operational workflows. My experience includes SQL query optimization, legacy system modernization, test automation, and production observability.
 
-- 💼 Software Engineer specialized in ERP and backend development
-- ⚙️ Focused on APIs, integrations, automation, and maintainable systems
-- 🧠 Interested in scalable architecture, performance, and observability
+I am a **Senior Software Development Analyst at TOTVS**, where I have worked since December 2023 and held my current role since October 2025. My background includes software development since 2021, freelance backend development, developer mentoring, and earlier work in infrastructure and systems support.
 
-## Tech Stack
+**Open to software engineering, backend, integration, and automation opportunities.** Based in Cuiabá, Brazil.
 
-![ADVPL Badge](https://img.shields.io/badge/ADVPL-0A66C2?style=for-the-badge)
-![TLPP Badge](https://img.shields.io/badge/TLPP-1F6FEB?style=for-the-badge)
-![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL Server Badge](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[Portfolio](https://www.vitorrosa.dev.br/en/) · [LinkedIn](https://www.linkedin.com/in/vitorrosa-tech/) · [Email](mailto:vitorrosa.dev@gmail.com)
 
-## What I build
+## Selected professional work
 
-- Backend services and REST APIs
-- ERP customizations and integrations
-- Internal tools for business operations
-- Legacy system improvements and maintenance
-- Automation and developer productivity solutions
+| Work | My contribution |
+| --- | --- |
+| [PrimeRobot — Test automation](https://www.vitorrosa.dev.br/en/projects/prime-robot/) | Developed a PROBAT/TLPP engine to automate validation of custom source code. |
+| [Prime Inject — Production telemetry](https://www.vitorrosa.dev.br/en/projects/prime-inject/) | Designed, developed, and deployed a tool to monitor custom production code and identify unused sources. |
+| [REST APIs for a mobile application](https://www.vitorrosa.dev.br/en/projects/mobile-apis/) | Designed and developed ADVPL backend APIs connecting Protheus data to a React Native application. |
+| [CRM backend and ERP integration](https://www.vitorrosa.dev.br/en/projects/web-crm/) | Built a web CRM backend integrated with Protheus and API endpoints for data synchronization with external platforms. |
 
-## GitHub Stats
+These projects describe professional work; their corporate source code is not presented as public repositories.
 
-![Vitor-Rosa GitHub stats](https://github-stats-extended.vercel.app/api?username=vitor-gabriel&show_icons=true&theme=radical)
+## Technical background
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=vitor-gabriel&layout=compact&theme=radical)
+- **Backend and integrations:** REST APIs, ADVPL, TLPP, TOTVS Protheus.
+- **Data and performance:** SQL Server and SQL query optimization.
+- **Quality and operations:** PROBAT, test automation, production telemetry, observability, and legacy code maintenance.
+- **Additional technologies:** Java, C#/.NET Framework, Angular, and React Native.
+- **Infrastructure background:** Active Directory, PfSense, and SharePoint.
 
-## Contact
+My current learning focus includes Java backend development and software architecture.
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitor-gabriel)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorrosa-tech/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorrosa.dev@gmail.com)
+## Public repositories
 
-## Current Focus
+- [portifolio](https://github.com/vitor-gabriel/portifolio) — Protheus source code examples.
+- [snippets-advpl](https://github.com/vitor-gabriel/snippets-advpl) — ADVPL snippets for the TOTVS ecosystem.
 
-Right now, I'm focused on deepening my expertise in:
+## Education and languages
 
-- scalable backend systems
-- software architecture
-- Java ecosystem
-- ERP modernization
-- observability and system reliability
+Bachelor's degree in Information Systems — FAFIT, 2018–2021.
+
+Portuguese: native or bilingual. English and Spanish: professional working proficiency.
+
+<details>
+<summary>Em português</summary>
+
+Sou engenheiro de software com foco em backend, integrações e automação. Desenvolvo APIs REST, integro sistemas corporativos e trabalho com otimização SQL, automação de testes, telemetria e evolução de sistemas legados.
+
+Atuo na TOTVS desde dezembro de 2023 e sou Analista de Desenvolvimento de Software Sênior desde outubro de 2025. Minha trajetória também inclui backend de CRM como freelancer, mentoria de desenvolvedores e experiência em infraestrutura.
+
+Estou aberto a oportunidades em engenharia de software, backend, integrações e automação.
+
+[Portfólio em português](https://www.vitorrosa.dev.br/pt/) · [Contato](mailto:vitorrosa.dev@gmail.com)
+
+</details>
